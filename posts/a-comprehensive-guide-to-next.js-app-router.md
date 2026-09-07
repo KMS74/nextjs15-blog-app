@@ -1,6 +1,10 @@
 ---
 title: "A Comprehensive Guide to Next.js App Router"
 date: "2024-10-26"
+category: "React & Next.js"
+tags: ["Next.js", "App Router", "React", "Server Components"]
+description: "Master the Next.js App Router: understand React Server Components, nested layouts, streaming with Suspense, and modern data-fetching patterns."
+featured: true
 ---
 
 # A Comprehensive Guide to Next.js App Router

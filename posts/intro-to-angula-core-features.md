@@ -1,6 +1,10 @@
 ---
 title: "Introduction to Angular Framework: Core Features"
 date: "2023-08-30"
+category: "Frontend"
+tags: ["Angular", "TypeScript", "Frontend", "Components"]
+description: "An overview of Google Angular: deep dive into component architecture, 2-way data binding, directives, and dependency injection services."
+featured: false
 ---
 
 ## What is Angular?
